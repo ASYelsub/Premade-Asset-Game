@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Gem" t="Include">
+          <e p="Shaders" t="Include">
+            <e p="Gem.shader" t="Include" />
+          </e>
+        </e>
+        <e p="GemExample" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="DemoTimeOfDay.cs" t="Include" />
+            <e p="Orbit.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="PlayerMovement.cs" t="Include" />
+        </e>
+        <e p="skyboxes" t="Include">
+          <e p="fishpond" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="footballfield" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="meadow" t="Include">
+            <e p="readme.txt" t="Include" />
+          </e>
+        </e>
+        <e p="text" t="Include">
+          <e p="dictionary.txt" t="Include" />
+          <e p="robinhood.txt" t="Include" />
+          <e p="the_crock_of_gold.txt" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="PremadeAssetGame.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_PremadeAssetGame.-468073533.00" t="ExcludeRecursive" />
+  </component>
+</project>
