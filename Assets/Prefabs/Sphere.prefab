@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3317933404102101040}
   - component: {fileID: 3317933404102101041}
   - component: {fileID: 3317933404102101046}
-  - component: {fileID: 839516555744767111}
+  - component: {fileID: 7565271108266471878}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Flower
@@ -84,8 +84,8 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &839516555744767111
-BoxCollider:
+--- !u!135 &7565271108266471878
+SphereCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -95,8 +95,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.1030324, y: 2.0520422, z: 2.1468234}
-  m_Center: {x: 0.05151633, y: 0.03561706, z: -0.04683258}
+  m_Radius: 0.5000001
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &3317933404168524948
 GameObject:
   m_ObjectHideFlags: 0
